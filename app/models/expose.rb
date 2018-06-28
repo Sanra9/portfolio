@@ -1,0 +1,2 @@
+class Expose < ApplicationRecord
+end
